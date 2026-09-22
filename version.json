@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "changelog": [
+    {
+      "text": "Добавлено автоматическое обновление через version.json на GitHub"
+    },
+    {
+      "text": "Команда /nmupd — ручная проверка обновлений. После установки может потребоваться CTRL+R"
+    },
+    {
+      "text": "Добытая руда сразу убирается из ESP и выбора цели"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/ScriptRoblox-ay9/NexaMine/main/NexaMine.lua",
+      "path": "NexaMine.lua"
+    }
+  ]
+}
