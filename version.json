@@ -1,20 +1,9 @@
 {
   "version": "1.1",
   "changelog": [
-    {
-      "text": "Выпустил скрипт"
-    },
-    {
-      "text": "Или нет"
-    },
-    {
-      "text": "Я еще оказывается с этого денег лутаю"
-    }
+    { "text": "Что нового в этой версии" }
   ],
   "files": [
-    {
-      "url": "https://raw.githubusercontent.com/ScriptRoblox-ay9/NexaMine/main/NexaMine.lua",
-      "path": "NexaMine.lua"
-    }
+    { "id": "bot", "path": "NexaMine.lua" }
   ]
 }
